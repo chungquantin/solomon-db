@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56880684/201497081-40976107-ef47-4a12-bf6d-ceafc8da3464.png" width="40%"/>
 </p>
-<h3 align="center">A distributed Gremlin-compatible graph database</h3>
+<h3 align="center">A distributed Gremlin-compatible graph database (In development 🚧)</h3>
 
 <h3 align="center">Open for contribution 🚀</h3>
 <br/>
